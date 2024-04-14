@@ -2,13 +2,22 @@
 
 The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **What is Fortran used for?** This could be linked to a gallery of production codes with nice external web sites, ideally with eye-catching graphics. Some sites listed below such as ECMWF may not refer to a single computer code. Here is a starting list that I request people add to -- please create a PR or an issue. I use (C) to designate closed-source commercial projects.
 
+### Astrophysics
+[MAS (Magnetohydrodynamic Algorithm outside a Sphere)](https://www.predsci.com/corona/model_desc.html): Model of the Solar Corona and Inner Heliosphere
+
 ### Climate
 [MITGCM (general circulation model)](http://paocweb.mit.edu/research-group/mitgcm)
 
 [NOAA-GFDL Flexible Modeling System](https://www.gfdl.noaa.gov/fms/)
 
-### Earth Science
-[FEHM: Finite Element Heat and Mass Transfer Code](https://fehm.lanl.gov/): used to simulate groundwater and contaminant flow and transport in deep and shallow, fractured and un-fractured porous media.
+### Computational Fluid Dynamics
+[CFL3D](https://nasa.github.io/CFL3D/): structured-grid, cell-centered, upwind-biased, Reynolds-averaged Navier-Stokes (RANS) code, used to support numerous NASA programs since the late 1980s
+
+[FUN3D (Fully Unstructured Navier-Stokes)](https://fun3d.larc.nasa.gov/): suite of tools actively developed at NASA that benefits Aeronautics, Space Technology, and Exploration by modeling fluid flow
+
+[MFC (Multi-Component Flow Code)](https://mflowcode.github.io/): exascale compressible multiphase and multiphysics flow code
+
+[OVERFLOW](https://overflow.larc.nasa.gov/?doing_wp_cron=1713101321.4555010795593261718750): uses structured overset grids to simulate fluid flow, and is being used on projects for Aeronautics Research, Science, Space Technology, and Human Exploration Mission Directorates
 
 ### Engineering
 [ABAQUS](https://www.3ds.com/products/simulia/abaqus) -- Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
