@@ -22,7 +22,7 @@ The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **
 ### Engineering
 [ABAQUS](https://www.3ds.com/products/simulia/abaqus) -- Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
 
-### Quantum Chemistry and Electronic Structure
+### Quantum Chemistry and Electronic Structure -- more listed [here](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 [NWChem: Open Source High-Performance Computational Chemistry](https://www.nwchem-sw.org/)
 
 [SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms)](https://www.simuneatomistics.com/products/siesta-code/)
