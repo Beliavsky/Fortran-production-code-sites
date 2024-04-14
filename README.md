@@ -7,6 +7,9 @@ The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **
 
 [NOAA-GFDL Flexible Modeling System](https://www.gfdl.noaa.gov/fms/)
 
+### Earth Science
+[FEHM: Finite Element Heat and Mass Transfer Code](https://fehm.lanl.gov/): used to simulate groundwater and contaminant flow and transport in deep and shallow, fractured and un-fractured porous media.
+
 ### Engineering
 [ABAQUS](https://www.3ds.com/products/simulia/abaqus) -- Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
 
