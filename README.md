@@ -20,7 +20,10 @@ The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **
 [OVERFLOW](https://overflow.larc.nasa.gov/?doing_wp_cron=1713101321.4555010795593261718750): uses structured overset grids to simulate fluid flow, and is being used on projects for Aeronautics Research, Science, Space Technology, and Human Exploration Mission Directorates
 
 ### Engineering
-[ABAQUS](https://www.3ds.com/products/simulia/abaqus) -- Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
+[ABAQUS](https://www.3ds.com/products/simulia/abaqus): Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
+
+[Horizontal Axis Wind turbine simulation Code 2nd generation (HAWC2)](https://www.hawc2.dk/): aeroelastic code intended for calculating wind turbine response in time domain.
+The core of the code was developed mainly within the years 2003-2007, by the Aeroelastic Design Research Program at DTU Wind, DTU Risø Campus in Denmark.
 
 ### Quantum Chemistry and Electronic Structure -- more listed [here](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 [NWChem: Open Source High-Performance Computational Chemistry](https://www.nwchem-sw.org/)
