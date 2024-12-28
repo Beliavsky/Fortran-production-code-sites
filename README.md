@@ -19,6 +19,9 @@ The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **
 
 [OVERFLOW](https://overflow.larc.nasa.gov/?doing_wp_cron=1713101321.4555010795593261718750): uses structured overset grids to simulate fluid flow, and is being used on projects for Aeronautics Research, Science, Space Technology, and Human Exploration Mission Directorates
 
+### Earth Science
+[Earth Tide, Load Effect and Monitoring computation](https://www.zcyphygeodesy.com/en/h-col-113.html): includes the basic principles, main formulas and important methods of geodesy on the deforming Earth, by Chuanyin Zhang
+
 ### Engineering
 [ABAQUS](https://www.3ds.com/products/simulia/abaqus): Finite Element Analysis for Mechanical Engineering and Civil Engineering (C)
 
