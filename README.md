@@ -28,6 +28,9 @@ The fortran-lang [site](https://fortran-lang.org/) has a paragraph explaining **
 [Horizontal Axis Wind turbine simulation Code 2nd generation (HAWC2)](https://www.hawc2.dk/): aeroelastic code intended for calculating wind turbine response in time domain.
 The core of the code was developed mainly within the years 2003-2007, by the Aeroelastic Design Research Program at DTU Wind, DTU Risø Campus in Denmark.
 
+### Plasma Physics
+[EPOCH](https://epochpic.github.io/): particle-in-cell code for plasma physics simulations. An associated paper is [Contemporary particle-in-cell approach to laser-plasma modelling](https://iopscience.iop.org/article/10.1088/0741-3335/57/11/113001), by T. D. Arber et al., <i>Plasma Physics and Controlled Fusion</i> (2015). 
+
 ### Quantum Chemistry and Electronic Structure -- more listed [here](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
 [NWChem: Open Source High-Performance Computational Chemistry](https://www.nwchem-sw.org/)
 
